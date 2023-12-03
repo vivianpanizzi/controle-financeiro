@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;1,100;1,200&family=Noto+Sans:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E0E0E0;
+    font-family: 'Barlow', sans-serif;
+}
+
+&:root{
+    --cor-primaria: #424242;
+    --cor-secundaria: #757575;
+}

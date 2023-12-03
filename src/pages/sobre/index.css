@@ -1,0 +1,33 @@
+.titulo {
+    text-align: center;
+
+}
+
+.texto-container {
+    margin: 50px; 
+    padding: 20px; 
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: #fff;
+    color: var(--cor-primaria);
+    margin-top: -50px;
+    border-radius: 10px;
+}
+
+.texto-container p {
+    margin-bottom: 20px;
+}
+
+.texto-container h2 {
+    color: var(--cor-primaria); 
+    font-size: 20px;
+    text-align: center;
+}
+
+.texto-container ol {
+    padding-left: 20px;
+}
+
+.texto-container li {
+    margin-bottom: 8px;
+}
